@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DASHARATHRAM KOTA
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in FullStack development
+- 🌱 I’m currently learning React JS and other FrontEnd Technologies
 - 💞️ I’m looking to collaborate on anything related to JavaScript
 - 📫 How to reach me: Email: kdasharathram@gmail.com
 
