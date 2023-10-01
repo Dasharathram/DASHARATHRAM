@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DASHARATHRAM KOTA
+- 👋 Hi, I’m @DASHARATHRAM
 - 👀 I’m interested in FullStack development
 - 🌱 I’m currently learning React JS and other FrontEnd Technologies
 - 💞️ I’m looking to collaborate on anything related to JavaScript
