@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack development
 - 🌱 I’m currently learning React JS and other FrontEnd Technologies
 - 💞️ I’m looking to collaborate on anything related to JavaScript
-- 📫 How to reach me: Email: kdasharathram@gmail.com
+- 📫 How to reach me: Email: dasharathram8688@gmail.com
 
 <!---
 DASHARATHRAM/DASHARATHRAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
